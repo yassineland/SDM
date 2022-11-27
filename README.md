@@ -1,5 +1,7 @@
 # SDM
-Hybrid Method to Automatically Extract Medical Document Tree Structure
+Title: Hybrid Method to Automatically Extract Medical Document Tree Structure (2022)
+Journal: Engineering Applications of Artificial Intelligence
+Authors: Mohamed Yassine Landolsi, Lobna Hlaoua, Lotfi Ben Romdhane
 
 ### Setup ###
 > 1. execute this console command (modules):
@@ -28,6 +30,6 @@ all generated files are in "utils/data" (e.g. generated trees in "utils/data/INS
 #### Manual annotation ####
 1. put your PDF valid documents (e.g. in "main/dataINS/validPDF/").
 2. edit "main/conf.py", change "IS_TRAIN" to 0, change "EVAL_AUTO" to 1.
-3. create your manual annotations files in "manu_annot" folder (e.g. "main/dataINS/manu_annot/"):
+3. create your manual annotations files in "manu_annot/" folder (e.g. "main/dataINS/manu_annot/"):
 * each line is 1/0 (title/non-title).
 * each line represent a chunk, its order should be the same in the generated tree file (e.g. in "utils/data/INS/outputPredTitles/").
