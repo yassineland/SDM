@@ -9,7 +9,7 @@ Authors: Mohamed Yassine Landolsi, Lobna Hlaoua, Lotfi Ben Romdhane
 > 1. execute this console command (modules):
 > - pip install -r requirements.txt
 > 2. download our pre-trained models?:
-> https://drive.google.com/drive/folders/1jEse714ZF80bntL-YIkgucf_bI969bBT?usp=share_link
+> - https://drive.google.com/drive/folders/1jEse714ZF80bntL-YIkgucf_bI969bBT?usp=share_link
 
 ### How to train/test? ###
 go to "main/" and execute "main.py".
