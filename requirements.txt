@@ -1,0 +1,11 @@
+nltk==3.6.2
+gensim==4.2.0
+numpy==1.19.5
+scipy==1.4.1
+scikit-learn==0.22.2
+PDFminer==20191125
+tensorflow-gpu==2.2.0
+tensorflow==2.2.0
+tensorflow-addons==0.10.0
+keras==2.3.1
+protobuf==3.17.1
